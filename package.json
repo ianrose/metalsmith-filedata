@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ianrose/metalsmith-filedata/issues"
   },
-  "homepage": "https://github.com/ianrose/metalsmith-filedata#readme"
+  "homepage": "https://github.com/ianrose/metalsmith-filedata#readme",
+  "dependencies": {
+    "multimatch": "^2.1.0"
+  }
 }
